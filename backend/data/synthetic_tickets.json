@@ -1,0 +1,66 @@
+[
+  {
+    "id": "TKT-001",
+    "subject": "Question about billing",
+    "description": "Hi, I just wanted to ask a quick question about my upcoming invoice. Can you clarify the charge on the second line? Thanks.",
+    "priority": "Low",
+    "customer_tier": "Free",
+    "category": "Billing"
+  },
+  {
+    "id": "TKT-002",
+    "subject": "App crashes on launch",
+    "description": "The app keeps crashing when I try to open it. I've reinstalled it twice but it's still completely unusable. Please help.",
+    "priority": "High",
+    "customer_tier": "Pro",
+    "category": "Technical"
+  },
+  {
+    "id": "TKT-003",
+    "subject": "Minor typo on website",
+    "description": "Just wanted to point out there's a small typo on the pricing page. It says 'anually' instead of 'annually'.",
+    "priority": "Low",
+    "customer_tier": "Free",
+    "category": "Account"
+  },
+  {
+    "id": "TKT-004",
+    "subject": "System down, losing money!",
+    "description": "Your API is completely down and we are losing thousands of dollars every minute! We need this fixed immediately or we will be talking to our lawyer and demanding a full refund.",
+    "priority": "Low",
+    "customer_tier": "Enterprise",
+    "category": "Technical"
+  },
+  {
+    "id": "TKT-005",
+    "subject": "How to change password?",
+    "description": "Can someone tell me how to change my password? The link in the settings doesn't seem to work for me.",
+    "priority": "Normal",
+    "customer_tier": "Pro",
+    "category": "Account"
+  },
+  {
+    "id": "TKT-006",
+    "subject": "Need help with integration",
+    "description": "We are trying to set up the new integration but getting a 403 error. Can someone jump on a quick call with us?",
+    "priority": "Normal",
+    "customer_tier": "Enterprise",
+    "category": "Technical"
+  },
+  {
+    "id": "TKT-007",
+    "subject": "Urgent: Cannot access account",
+    "description": "I'm locked out of my account and I need to run payroll today! This is critical, please reset my access immediately.",
+    "priority": "Normal",
+    "customer_tier": "Pro",
+    "category": "Account"
+  },
+  {
+    "id": "TKT-008",
+    "subject": "Refund request",
+    "description": "I forgot to cancel my subscription and just got charged. I haven't used the service in months. Can I get a refund?",
+    "priority": "Low",
+    "customer_tier": "Free",
+    "category": "Billing"
+  }
+]
