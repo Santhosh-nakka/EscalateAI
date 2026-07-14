@@ -9,7 +9,7 @@ import TicketDetail from './pages/TicketDetail';
 import Analytics from './pages/Analytics';
 import Background3D from './components/Background3D';
 
-const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000/api';
+const API_BASE = import.meta.env.VITE_API_URL || (import.meta.env.PROD ? '/api' : 'http://localhost:8000/api');
 
 function Sidebar() {
   const location = useLocation();
